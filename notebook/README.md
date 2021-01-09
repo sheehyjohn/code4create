@@ -17,7 +17,9 @@ https://www.gatsbyjs.com/docs/tutorial/part-zero/
 Nice .... Node Version Manager 
 https://www.gatsbyjs.com/docs/tutorial/part-zero/#set-default-nodejs-version
 
-
+# Embed a Codepen
+Worked Great
+https://codepen.io/toshiya-marukubo/pen/RwGBrwm
 
 # Can the JAMStack allow me to do authentication
 i7-ubuntu, VS Code GitKraken, Netlify
