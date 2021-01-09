@@ -3,11 +3,44 @@ template: HomePage
 slug: ''
 title: Code for Creativity
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the code to unlock creative potential.'
+subtitle: ' Welcome to code to unlock creative potential.'
 meta:
   description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  title: code4creativity
 ---
+Just adding something to see the changes
+
+# Heading 1
+
+## Heading 2
+_omg I can write in Markdown_ ... __so cool!__!__!__
+
+### Lists
+- Lists?
+  - alists?
+  - will need to adjust this CSS
+- rest of List
+- asdf?
+
+### Numberings
+1. one
+1. two
+1. three
+
+### Indents
+    what about ident?
+    it just indents
+
+this is text, that's not indented
+
+> Block
+>> Double
+
+just some text in the way (needs a return of line)
+
+> New Block
+>>> Triple
+
 
 Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
 
