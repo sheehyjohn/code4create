@@ -10,6 +10,13 @@ These notes can be referenced during the course
  - seamless deploy....nearly...took a few minutes to auto-generate "Let's Encrpyt" https certificate
 
 
+## Running Gatsby Locally
+https://www.gatsbyjs.com/docs/tutorial/part-zero/
+
+## nvm
+Nice .... Node Version Manager 
+https://www.gatsbyjs.com/docs/tutorial/part-zero/#set-default-nodejs-version
+
 
 
 # Can the JAMStack allow me to do authentication
