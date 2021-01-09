@@ -24,3 +24,26 @@ What about Web
 
 
 ### Dev - Patreon
+
+
+## Phrasing
+
+Ok ok .... so I'm 
+
+Also 
+
+- Phrases
+    - Ok so,
+    - Also Also,
+    - here we are so
+    - Nice one
+
+
+- Features I want
+    - authenication and user access
+    - CodePen Embed
+    - Use of Framework Code within the JAMStack Site
+
+- Content Styling
+    - highlights (like in newspapers)
+    - pop up boxes
