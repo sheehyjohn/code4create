@@ -5,6 +5,17 @@ These Markdown Notes will eventually be turned into
 
 These notes can be referenced during the course 
 
+# Public and Squishy First
+_like mobile or desktop first_
+
+I am starting with Public inmind for these notebooks, as I would hope to allow access to students and other developers/teachers
+But also treat it as a work in progress
+
+    If interested, contact
+    If it's not completed collaborate
+
+    https://www.jason.af/squishy-projects
+
 
 ## YellowCake Gatsby Deploy
  - seamless deploy....nearly...took a few minutes to auto-generate "Let's Encrpyt" https certificate
