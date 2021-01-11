@@ -1,3 +1,9 @@
+# Internet Saferty & Securtiy
+- refer to best practice
+- understanding of how it works
+- responsibility about how are actions can affect others
+- staying safe
+
 D3 Mindmap
 
 P5 Music
@@ -20,3 +26,10 @@ Music Lesson
     - there are parts that are shared and parts specfic to an instrument
     - it might be worth offering bass & guitar but then personalise as needed
     - 
+
+## Streaming
+    - OBS Studio
+
+### Source Control
+- look at the Rep
+- _make it accessible, but don't make them learn it twice_
