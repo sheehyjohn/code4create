@@ -33,3 +33,5 @@ Music Lesson
 ### Source Control
 - look at the Rep
 - _make it accessible, but don't make them learn it twice_
+- Wikis or Github Pages
+    (could be a better solution then what I am doing with these Notebooks)
