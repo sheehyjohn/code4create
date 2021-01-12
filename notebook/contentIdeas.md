@@ -19,7 +19,7 @@ CSS Art
     - why is it important to use CSS
     - native to browser, doesn't require external tools
     - fast and can be used in websites - opposite is Flash
-[linkTo] - CSS Art Folder
+[linkTo] - CSS Art Folder 
 
 Music Lesson
     - general music introduction
@@ -27,11 +27,16 @@ Music Lesson
     - it might be worth offering bass & guitar but then personalise as needed
     - 
 
-## Streaming
-    - OBS Studio
+# Streaming
+- OBS Studio
+- Webcam
+
+https://askubuntu.com/questions/1235731/can-i-use-an-android-phone-as-webcam-for-an-ubuntu-device
 
 ### Source Control
 - look at the Rep
 - _make it accessible, but don't make them learn it twice_
 - Wikis or Github Pages
     (could be a better solution then what I am doing with these Notebooks)
+
+## Code Editor
