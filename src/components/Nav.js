@@ -4,17 +4,26 @@ import { Link } from 'gatsby'
 import { Menu, X } from 'react-feather'
 import Logo from './Logo'
 
+import { useIdentityContext } from "react-netlify-identity-widget"
+
 import './Nav.css'
+
 
 export class Navigation extends Component {
     state = {
         active: false,
         activeSubNav: false,
-        currentPath: false
+        currentPath: false,
+        isLoggedIn2: false
     }
 
     componentDidMount = () =>
-        this.setState({ currentPath: this.props.location.pathname })
+        this.setState({
+            currentPath: this.props.location.pathname
+            //,
+            // isLoggedIn2: useIdentityContext()
+        })
+
 
     handleMenuToggle = () => this.setState({ active: !this.state.active })
 
@@ -27,6 +36,10 @@ export class Navigation extends Component {
         }
     }
 
+    /* Trying to Add Login Logic */
+    // useIdentityContext = () => console.log('here');
+    // isLoggedInProp = (user, isLoggedIn, logoutUser) => useIdentityContext();
+
     toggleSubNav = subNav =>
         this.setState({
             activeSubNav: this.state.activeSubNav === subNav ? false : subNav
@@ -37,6 +50,7 @@ export class Navigation extends Component {
             this.toggleSubNav(subNav)
         }
     }
+
     render() {
         const { active } = this.state,
             { subNav } = this.props,
@@ -55,6 +69,7 @@ export class Navigation extends Component {
                     {children}
                 </Link>
             )
+
 
         return (
             <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
@@ -107,8 +122,19 @@ export class Navigation extends Component {
                             </span>
                         </div>
                         <NavLink to="/default/">Default</NavLink>
-                        <NavLink to="/contact/">Contact</NavLink>
+
                         <NavLink to="/app/">Login</NavLink>
+                        <NavLink to="/contact/">Contact</NavLink>
+
+                        {/* 
+                        
+                             */}
+                        {this.state.isLoggedIn2 ? (
+                            <NavLink to="/contact/">asdf</NavLink>
+                        ) : (
+                                <NavLink to="/contact/">qwer</NavLink>
+                            )}
+
                     </div>
                     <button
                         className="Button-blank Nav--MenuButton"
