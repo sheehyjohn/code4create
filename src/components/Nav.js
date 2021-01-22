@@ -14,7 +14,7 @@ export class Navigation extends Component {
         active: false,
         activeSubNav: false,
         currentPath: false,
-        isLoggedIn2: false
+        isLoggedIn2: true
     }
 
     componentDidMount = () =>
@@ -69,7 +69,12 @@ export class Navigation extends Component {
                     {children}
                 </Link>
             )
-
+        /* Trying to Add Login Logic */
+        // console.log("ASDFSADF");
+        // const { user, isLoggedIn, logoutUser } = useIdentityContext();
+        // console.log("%cisLoggedIn = %o", "color: red ;", isLoggedIn);
+        // console.log("isLoggedIn = " + isLoggedIn);
+        // console.log("ASDFSADF");
 
         return (
             <nav className={`Nav ${active ? 'Nav-active' : ''}`}>
@@ -124,15 +129,15 @@ export class Navigation extends Component {
                         <NavLink to="/default/">Default</NavLink>
 
                         <NavLink to="/app/">Login</NavLink>
-                        <NavLink to="/contact/">Contact</NavLink>
 
                         {/* 
-                        
-                             */}
+                        Trying to Add Login Logic 
+                        */}
+
                         {this.state.isLoggedIn2 ? (
-                            <NavLink to="/contact/">asdf</NavLink>
+                            <NavLink to="/contact/">Contact</NavLink>
                         ) : (
-                                <NavLink to="/contact/">qwer</NavLink>
+                                <NavLink to="/contact/">contact</NavLink>
                             )}
 
                     </div>
