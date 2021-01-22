@@ -20,8 +20,6 @@ export class Navigation extends Component {
     componentDidMount = () =>
         this.setState({
             currentPath: this.props.location.pathname
-            //,
-            // isLoggedIn2: useIdentityContext()
         })
 
 
