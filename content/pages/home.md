@@ -41,6 +41,7 @@ just some text in the way (needs a return of line)
 > New Block
 >>> Triple
 
+
 # Embedded Codepen
 <iframe height="512" style="width: 100%;" scrolling="no" title="#6 in 2021 / CSS Animation" src="https://codepen.io/toshiya-marukubo/embed/RwGBrwm?height=265&theme-id=dark&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href='https://codepen.io/toshiya-marukubo/pen/RwGBrwm'>#6 in 2021 / CSS Animation</a> by Toshiya Marukubo
@@ -50,6 +51,7 @@ just some text in the way (needs a return of line)
 
 Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
 
+<!---
 View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
 
 # Features
@@ -67,3 +69,4 @@ View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-r
 View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
+-->

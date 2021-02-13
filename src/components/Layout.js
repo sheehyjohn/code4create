@@ -10,9 +10,9 @@ import 'modern-normalize/modern-normalize.css'
 import './globalStyles.css'
 
 export default ({ children, meta, title }) => {
-  return (
-    <StaticQuery
-      query={graphql`
+    return (
+        <StaticQuery
+            query={graphql`
         query IndexLayoutQuery {
           settingsYaml {
             siteTitle
@@ -39,50 +39,50 @@ export default ({ children, meta, title }) => {
           }
         }
       `}
-      render={data => {
-        const { siteTitle, socialMediaCard, googleTrackingId } =
-            data.settingsYaml || {},
-          subNav = {
-            posts: data.allPosts.hasOwnProperty('edges')
-              ? data.allPosts.edges.map(post => {
-                  return { ...post.node.fields, ...post.node.frontmatter }
-                })
-              : false
-          }
+            render={data => {
+                const { siteTitle, socialMediaCard, googleTrackingId } =
+                    data.settingsYaml || {},
+                    subNav = {
+                        posts: data.allPosts.hasOwnProperty('edges')
+                            ? data.allPosts.edges.map(post => {
+                                return { ...post.node.fields, ...post.node.frontmatter }
+                            })
+                            : false
+                    }
 
-        return (
-          <Fragment>
-            <Helmet
-              defaultTitle={siteTitle}
-              titleTemplate={`%s | ${siteTitle}`}
-            >
-              {title}
-              <link href="https://ucarecdn.com" rel="preconnect" crossorigin />
-              <link rel="dns-prefetch" href="https://ucarecdn.com" />
-              {/* Add font link tags here */}
-            </Helmet>
+                return (
+                    <Fragment>
+                        <Helmet
+                            defaultTitle={siteTitle}
+                            titleTemplate={`%s | ${siteTitle}`}
+                        >
+                            {title}
+                            <link href="https://ucarecdn.com" rel="preconnect" crossorigin />
+                            <link rel="dns-prefetch" href="https://ucarecdn.com" />
+                            {/* Add font link tags here */}
+                        </Helmet>
 
-            <Meta
-              googleTrackingId={googleTrackingId}
-              absoluteImageUrl={
-                socialMediaCard &&
-                socialMediaCard.image &&
-                socialMediaCard.image
-              }
-              {...meta}
-              {...data.settingsYaml}
-            />
+                        <Meta
+                            googleTrackingId={googleTrackingId}
+                            absoluteImageUrl={
+                                socialMediaCard &&
+                                socialMediaCard.image &&
+                                socialMediaCard.image
+                            }
+                            {...meta}
+                            {...data.settingsYaml}
+                        />
 
-            <GithubCorner url="https://github.com/thriveweb/yellowcake" />
+                        <GithubCorner url="https://github.com/sheehyjohn" />
 
-            <Nav subNav={subNav} />
+                        <Nav subNav={subNav} />
 
-            <Fragment>{children}</Fragment>
+                        <Fragment>{children}</Fragment>
 
-            <Footer />
-          </Fragment>
-        )
-      }}
-    />
-  )
+                        <Footer />
+                    </Fragment>
+                )
+            }}
+        />
+    )
 }

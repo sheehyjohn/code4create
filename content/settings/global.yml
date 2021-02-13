@@ -1,6 +1,7 @@
-siteTitle: Yellow Cake
-siteUrl: 'https://yellowcake.netlify.com'
+siteTitle: C4C
+siteUrl: 'https://code4creativity.dev/'
 siteDescription: >-
+  Template starter from https://yellowcake.netlify.com
   A starter project for creating lightning-fast websites with Gatsby v2 Netlify
   CMS v2 and Uploadcare media library.
 socialMediaCard:
