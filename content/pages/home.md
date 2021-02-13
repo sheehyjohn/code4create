@@ -8,6 +8,10 @@ meta:
   description: This is a meta description.
   title: code4creativity
 ---
+
+# Pages intentionally left blank
+## to be completed during course, with students, for students 
+
 Just adding something to see the changes
 
 # Heading 1
