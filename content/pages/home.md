@@ -6,13 +6,17 @@ featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
 subtitle: ' Welcome to code that can unlock creative potential.'
 meta:
   description: This is a meta description.
-  title: code4creativity
+  title: code4create
 ---
 
 # Web Pages Intentionally Left Blank
 ### Website to be built with students, for students
 #### 15th Feb 2021
 
+
+ <a href={`download.pdf`} download>Download the file from the static folder</a>
+
+ [Presentation Test](https://code4creativity.dev/downloads/code4create-210214-template.pdf)
 
     Just adding something below to see the changes possible with Markdown
 
