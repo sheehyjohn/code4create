@@ -3,12 +3,19 @@ template: HomePage
 slug: ''
 title: Code for Creativity
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to code to unlock creative potential.'
+subtitle: ' Welcome to code that can unlock creative potential.'
 meta:
   description: This is a meta description.
   title: code4creativity
 ---
-Just adding something to see the changes
+
+# Web Pages Intentionally Left Blank
+### Website to be build with students
+#### 15th Feb 2021
+
+
+    Just adding something below to see the changes possible with Markdown
+
 
 # Heading 1
 
