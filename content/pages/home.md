@@ -10,7 +10,7 @@ meta:
 ---
 
 # Web Pages Intentionally Left Blank
-### Website to be build with students, for students
+### Website to be built with students, for students
 #### 15th Feb 2021
 
 
