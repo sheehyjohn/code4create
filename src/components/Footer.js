@@ -4,8 +4,8 @@ import './Footer.css'
 export default () => (
     <div>
         <h2 className="taCenter">
-            Follow us{' '}
-            <a href="https://twitter.com/sheehyjohn">@sheehyjohn</a>
+            Follow {' '}
+            <a href="https://twitter.com/sheehyjohn">@sheehyjohn</a> on Twitter
         </h2>
         <br />
         <footer className="footer">
