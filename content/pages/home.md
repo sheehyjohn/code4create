@@ -10,10 +10,9 @@ meta:
 ---
 
 # Coding for Games
-#### April 2021
-welcome
+April 2021 - Welcome
 
-## Web Based Games
+## HTML5/CSS/JavaScript
 
 ## Canvas
 
