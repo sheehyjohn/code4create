@@ -67,3 +67,12 @@ Also
 - Content Styling
     - highlights (like in newspapers)
     - pop up boxes
+
+Say it all really quickly in like 60 seconds so people know if there is any point "for them" to listen to this 
+
+Also take answers from StackOverflow and reference
+
+
+# DAW 
+
+## Reverb on Track

@@ -9,6 +9,11 @@ meta:
   title: code4create
 ---
 
+# Pages intentionally left blank
+## to be completed during course, with students, for students 
+
+Just adding something to see the changes
+
 # Web Pages Intentionally Left Blank
 ### Website to be built with students, for students
 #### 15th Feb 2021
