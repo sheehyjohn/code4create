@@ -11,6 +11,7 @@ meta:
 
 # Coding for Games
 April 2021 - Welcome
+- __[class-210405](/posts/class-210405/)__ - notes and links for the class
 
 ## HTML5/CSS/JavaScript
 
@@ -21,6 +22,9 @@ April 2021 - Welcome
 ## Game Assets
 
 ## Resources
+
+
+Home - Blog
 
 [presentationLink (demo)](https://1drv.ms/b/s!AnjRzRZrsottlrgrgshMfX6gXuD4cg?e=Wo98F0)
 
