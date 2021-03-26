@@ -89,7 +89,7 @@ export class Navigation extends Component {
                     </Link>
                     <div className="Nav--Links">
                         <NavLink to="/">Home</NavLink>
-                        <NavLink to="/components/">Components</NavLink>
+
                         <div
                             className={`Nav--Group ${this.state.activeSubNav === 'posts' ? 'active' : ''
                                 }`}
@@ -124,9 +124,11 @@ export class Navigation extends Component {
                                 </div>
                             </span>
                         </div>
+                        <NavLink to="/components/">Components</NavLink>
                         <NavLink to="/default/">Default</NavLink>
-
+                        {/* 
                         <NavLink to="/app/">Login</NavLink>
+                        */}
 
                         {/* 
                         Trying to Add Login Logic 
@@ -135,8 +137,8 @@ export class Navigation extends Component {
                         {this.state.isLoggedIn2 ? (
                             <NavLink to="/contact/">Contact</NavLink>
                         ) : (
-                                <NavLink to="/contact/">contact</NavLink>
-                            )}
+                            <NavLink to="/contact/">contact</NavLink>
+                        )}
 
                     </div>
                     <button
