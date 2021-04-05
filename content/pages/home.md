@@ -13,6 +13,7 @@ meta:
 April 2021 - Welcome
 - __[class-210405](/posts/class-210405/)__ - notes and links for the class
 
+<!--
 ## HTML5/CSS/JavaScript
 
 ## Canvas
@@ -30,4 +31,4 @@ Home - Blog
 
  [publicShare (test files)](https://1drv.ms/u/s!AnjRzRZrsottlrgqE4l9Rdhzoyasng?e=UWOesI)
 
-  
+  ->
