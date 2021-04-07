@@ -18,7 +18,7 @@ I've added some of my own levels to get us started.
 And you can play around with them at this [link](https://master.dpmvjabwn8zfu.amplifyapp.com/)
 (Video to Follow)
 
-Use this [link to download](https://github.com/sheehyjohn/c4c-games-210405-levels) the levels and edit them, and [this video] will step through that process 
+Use this [link to download](https://github.com/sheehyjohn/c4c-phaser-gamemenu-02) the levels and edit them, and [this video] will step through that process 
 
 Any drawings or sketches for backgrounds, please email to c4c.number01@gmail.com by Friday.
 
