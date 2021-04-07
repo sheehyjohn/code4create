@@ -18,9 +18,12 @@ I've added some of my own levels to get us started.
 And you can play around with them at this [link](https://master.dpmvjabwn8zfu.amplifyapp.com/)
 (Video to Follow)
 
-Any drawings or sketches for background, please email to c4c.number01@gmail.com by Friday.
+Use this [link to download](https://github.com/sheehyjohn/c4c-games-210405-levels) the levels and edit them, and [this video] will step through that process 
 
-If you need a guide with installation of the software to create the Levels, please check back later, as I'm finishing off those videos this morning.
+Any drawings or sketches for backgrounds, please email to c4c.number01@gmail.com by Friday.
+
+Video describing the levels to try out
+Installing the 
 
 John
 
