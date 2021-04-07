@@ -15,15 +15,14 @@ Update - Thank you all for taking part in the class on Monday.
 For next week, we are planning on more interactive examples, for level design, creating our own graphics as well as looking at sound effects and music.
 
 I've added some of my own levels to get us started.
-And you can play around with them at this [Link](https://master.dpmvjabwn8zfu.amplifyapp.com/) and gave a look at the [Video](https://youtu.be/2Z1WSTqm6lQ)
+And you can play around with them at this [LINK](https://master.dpmvjabwn8zfu.amplifyapp.com/) and gave a look at the [VIDEO](https://youtu.be/2Z1WSTqm6lQ)
 
 
 Use this [link to download](https://github.com/sheehyjohn/c4c-phaser-gamemenu-02) the levels and edit them, and [this video] will step through that process 
 
-Any drawings or sketches for backgrounds, please email to c4c.number01@gmail.com by Friday.
+Any drawings or sketches for backgrounds, please email to [c4c.number01@gmail.com](mailto:c4c.number01@gmail.com) by Friday.
 
-Video describing the levels to try out
-Installing the 
+All the best,
 
 John
 
