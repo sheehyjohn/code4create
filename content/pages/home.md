@@ -10,7 +10,20 @@ meta:
 ---
 
 # Coding for Games
-April 2021 - Welcome
+Update - Thank you all for taking part in the class on Monday.
+
+For next week, we are planning on more interactive examples, for level design, creating our own graphics as well as looking at sound effects and music.
+
+I've added some of my own levels to get us started.
+And you can play around with them at this [link](https://master.dpmvjabwn8zfu.amplifyapp.com/)
+(Video to Follow)
+
+Any drawings or sketches for background, please email to c4c.number01@gmail.com by Friday.
+
+If you need a guide with installation of the software to create the Levels, please check back later, as I'm finishing off those videos this morning.
+
+John
+
 - __[class-210405](/posts/class-210405/)__ - notes and links for the class
 
 <!--
