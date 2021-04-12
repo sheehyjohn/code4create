@@ -22,6 +22,10 @@ Use this [LINK TO DOWNLOAD](https://github.com/sheehyjohn/c4c-phaser-gamemenu-02
 
 Any drawings or sketches for backgrounds, please email to [c4c.number01@gmail.com](mailto:c4c.number01@gmail.com) by Friday.
 
+Breakout demonstration of difficulty  - (DemoOfDifficulty)[https://iqx87.csb.app/] 
+
+And to see and edit the code here at (CODESANDBOX)[https://codesandbox.io/s/breakout-01-difficulty-iqx87]
+
 All the best,
 
 John
