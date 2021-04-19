@@ -17,11 +17,16 @@ Update for Monday 19th April.
 Thanks everyone for taking part, please click for the 
 [LATEST UPDATE OF GAME](https://c4c-msoa-2104.netlify.app/)
 
+ To get the code [LINK TO DOWNLOAD](https://github.com/sheehyjohn/c4c-phaser-gamemenu-04)
+
+
 All the original levels that we're designed in class, that consist of a single level are at [THIS LINK](https://master.dpmvjabwn8zfu.amplifyapp.com/)
 
 While the Art Course continues, please feel free to submit levels, background graphics or sprites sheets (coins, keys, ground, traps) to [c4c.number01@gmail.com](mailto:c4c.number01@gmail.com) and I aim to add them periodically to the game.
 
+Breakout demonstration of difficulty  - [DemoOfDifficulty](https://iqx87.csb.app/)
 
+And to see and edit the code here at [CODESANDBOX](https://codesandbox.io/s/breakout-01-difficulty-iqx87)
  
 <!-- 
 Update - Thank you all for taking part in the class on Monday.
