@@ -17,7 +17,7 @@ Update for Monday 19th April.
 Thanks everyone for taking part, please click for the 
 [LATEST UPDATE OF GAME](https://c4c-msoa-2104.netlify.app/)
 
-All the original levels that we're designed in class, that consist of a single level are at [THIS LINK](https://main.droi274a559o.amplifyapp.com/)
+All the original levels that we're designed in class, that consist of a single level are at [THIS LINK](https://master.dpmvjabwn8zfu.amplifyapp.com/)
 
 While the Art Course continues, please feel free to submit levels, background graphics or sprites sheets (coins, keys, ground, traps) to [c4c.number01@gmail.com](mailto:c4c.number01@gmail.com) and I aim to add them periodically to the game.
 
