@@ -10,6 +10,20 @@ meta:
 ---
 
 # Coding for Games
+
+
+Update for Monday 19th April.
+
+Thanks everyone for taking part, please click for the 
+[LATEST UPDATE OF GAME](https://c4c-msoa-2104.netlify.app/)
+
+All the original levels that we're designed in class, that consist of a single level are at [THIS LINK](https://main.droi274a559o.amplifyapp.com/)
+
+While the Art Course continues, please feel free to submit levels, background graphics or sprites sheets (coins, keys, ground, traps) to [c4c.number01@gmail.com](mailto:c4c.number01@gmail.com) and I aim to add them periodically to the game.
+
+
+ 
+<!-- 
 Update - Thank you all for taking part in the class on Monday.
 
 For next week, we are planning on more interactive examples, for level design, creating our own graphics as well as looking at sound effects and music.
@@ -25,6 +39,8 @@ Any drawings or sketches for backgrounds, please email to [c4c.number01@gmail.co
 Breakout demonstration of difficulty  - [DemoOfDifficulty](https://iqx87.csb.app/)
 
 And to see and edit the code here at [CODESANDBOX](https://codesandbox.io/s/breakout-01-difficulty-iqx87)
+
+-->
 
 All the best,
 
